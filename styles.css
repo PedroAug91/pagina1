@@ -21,3 +21,19 @@
 .manut {
     background-color: gray;
 }
+
+.hist {
+    background-color: purple;
+}
+
+.filo {
+    background-color: brown;
+}
+
+.web {
+    background-color: orange;
+}
+
+table, tr, td {
+    border: 1px #2b2b2b solid;
+}
